@@ -3,7 +3,13 @@ export default function MyHeader({ html }) {
     <header>
       <nav>
         <div id="logo">
-          <a href="/"><img src="/_public/images/logo.png" /></a>
+          <a href="/"
+            ><img
+              src="/_public/images/logo.png"
+              alt="SeattleJS logo"
+              width="30"
+              height="30"
+          /></a>
         </div>
         <div><a href="/about-us">About Us</a></div>
         <div><a href="/speak">Give a Talk</a></div>
