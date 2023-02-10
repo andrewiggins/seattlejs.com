@@ -2,7 +2,7 @@
 title: Speak at SeattleJS
 excerpt: SeattleJS is a safe and inclusive event for everyone
 ---
-![Rachel Lee Nabors speaking at SeattleJS](https://pbs.twimg.com/media/Fe6igRiaEAADO0N?format=jpg&name=large)
+<img src="https://pbs.twimg.com/media/Fe6igRiaEAADO0N?format=jpg&name=large" alt="Rachel Lee Nabors speaking at SeattleJS" width="2048" height="1536" />
 
 ## Submitting an Idea
 
