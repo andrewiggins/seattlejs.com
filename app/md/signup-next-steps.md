@@ -7,5 +7,5 @@ Thanks! We have sent an email to the address you provided.
 
 - You may need to check your "Promotions" or "Updates" folders.
 
-- To ensure you recieve our emails, please filter emails from info@cascadiajs.com to your Primary inbox.
+- To ensure you receive our emails, please filter emails from info@cascadiajs.com to your Primary inbox.
 
