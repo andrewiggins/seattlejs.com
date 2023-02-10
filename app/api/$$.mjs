@@ -13,7 +13,7 @@ export async function get(req) {
     'md',
     `${page}.md`
   )
-  if (!existsSync(filePath)) {
+  if (path.includes('/..') || !existsSync(filePath)) {
     return {
       json: {
         path,
