@@ -31,7 +31,7 @@
   },
   "scripts": {
     "start": "npx sandbox",
-    "lint": "eslint ./app/**/*.mjs --fix && prettier \"**/*.mjs\" --write"
+    "lint": "eslint ./app/**/*.mjs --fix && prettier \"**/*.{js,mjs,html}\" --write"
   },
   "repository": {
     "type": "git",
