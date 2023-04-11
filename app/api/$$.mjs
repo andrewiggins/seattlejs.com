@@ -28,6 +28,7 @@ export async function get(req) {
     let title = attributes.title
     return {
       json: {
+        kind: page.startsWith('slides') ? 'slides' : 'page',
         path,
         title,
         attributes,
